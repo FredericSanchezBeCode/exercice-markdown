@@ -36,4 +36,4 @@
 #### DESSERTS
 #### BOISSONS
 
-[mémo] (https://github.com/FredericSanchezBeCode/exercice-markdown/blob/developpement/memo.md)
+[mémo](https://github.com/FredericSanchezBeCode/exercice-markdown/blob/developpement/memo.md)
