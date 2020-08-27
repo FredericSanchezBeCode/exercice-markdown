@@ -1,16 +1,7 @@
 # Projet du groupe 4 composé de
 
 
-### Manon Bracke
-
-
-### Gaetano
-
-
-### Philippe Leroy
-
-
-### Frédéric Sanchez Falcon
+### Manon Bracke, Gaetano, Philippe Leroy, Frédéric Sanchez Falcon
 
 ## Qu'est-ce que le projet
 
