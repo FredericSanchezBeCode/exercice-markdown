@@ -13,3 +13,16 @@ Idem pour les autres niveaux de titres de h1 à h6 avec le nombre de diez équiv
 _txt_ ou *txt* mets en italique
 __txt__ ou **txt** mets en gras
 **txt et _txt_** Combine les deux
+
+
+*Liste non ordonée *il faut mettre l'espace entre etoile et votre mot* 
+
+1.Liste ordonée *il faut mettre l'espace entre Le chiffre avec le point et votre mot* 
+
+[link] (https://www.example.com/my%20great%20page) Pour les lien *il faut retirer l'espace entre les deux* 
+
+[link](https://www.example.com/my%20great%20page)
+
+![image] (https://www.bideew.com/photos/thumbnail/2623794/master/image-search-1586376048396jpg.png) Pour les lien *il faut retirer l'espace entre les deux* 
+
+![link](https://www.bideew.com/photos/thumbnail/2623794/master/image-search-1586376048396jpg.png)
