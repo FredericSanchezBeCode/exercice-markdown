@@ -1,6 +1,7 @@
 
 # Fusion de toutes les branches du groupe table 4 
 
+[mémo](https://github.com/FredericSanchezBeCode/exercice-markdown/blob/developpement/memo.md)
 
  ![pizza](https://www.delonghi.com/Global/recipes/multifry/3.jpg)
 
@@ -35,4 +36,3 @@
 #### PLATS 
 #### DESSERTS
 #### BOISSONS
-
