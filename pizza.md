@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Fusion de toutes les branches du groupe table 4 
 ![pizza](https://www.delonghi.com/Global/recipes/multifry/3.jpg
@@ -20,3 +21,16 @@
             3. Gouda
         * Olives noire
     2. Pizza Scampis
+=======
+# exercice-markdown
+## exerice markdown groupe 4
+
+### PIZZERIA MANON
+
+### MENU
+#### PIZZAS
+#### PLATS 
+#### DESSERTS
+#### BOISSONS
+
+>>>>>>> origin/gaetano
