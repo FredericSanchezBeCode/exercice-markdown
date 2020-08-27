@@ -16,3 +16,8 @@ Le projet a été réalisé de chez soi en télétravailavec. Il n'y avait donc 
 ## Progression
 
 Le projet a été presque entièrement réalisé que ce soit la liste de syntaxe lié aux exercices ou les exercices en eux même.
+
+[pizza]https://github.com/FredericSanchezBeCode/exercice-markdown/blob/developpement/pizza.md)
+
+[mémo](https://github.com/FredericSanchezBeCode/exercice-markdown/blob/developpement/memo.md)
+

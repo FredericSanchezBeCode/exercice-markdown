@@ -3,6 +3,7 @@ Un document balisé en Markdown peux être convertis en PDF, HTML et autres form
 Ses balises peuvent avoir le même effets que certaines balises HTML. Il permet aussi de mettre en couleur le texte selon le langage mis en préfixe.
 Markdown est fortement utilisé dans le cadre de Github qui a même sortit son propre markdown personnalisé nommé _GitHub Flavored Markdown (GFM)_
 
+https://github.com/FredericSanchezBeCode/exercice-markdown/blob/developpement/pizza.md
 # Inventaire de la syntaxe #
 Syntaxe pour les header
 # H1
