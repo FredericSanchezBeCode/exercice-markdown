@@ -1,8 +1,12 @@
-<<<<<<< HEAD
 
 # Fusion de toutes les branches du groupe table 4 
-![pizza](https://www.delonghi.com/Global/recipes/multifry/3.jpg
-![pizza_gif] (https://acegif.com/wp-content/uploads/pizza.gif))
+
+
+ ![pizza](https://www.delonghi.com/Global/recipes/multifry/3.jpg
+
+
+ ![pizza_gif] (https://acegif.com/wp-content/uploads/pizza.gif))
+
 
 * Pizza Margharita
 * Pizza Régina
@@ -21,7 +25,6 @@
             3. Gouda
         * Olives noire
     2. Pizza Scampis
-=======
 # exercice-markdown
 ## exerice markdown groupe 4
 
@@ -33,4 +36,3 @@
 #### DESSERTS
 #### BOISSONS
 
->>>>>>> origin/gaetano
